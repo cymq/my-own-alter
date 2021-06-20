@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+#
+# cymq
+# Twitter: @cymq0686
+# Email  : cymq0686@gmail.com
+#
+# (c) 2019-2021 Fascode Network.
+#
+# config
+#
+# Overwrites the first to read and set the build script
+# This configuration file follows the bash syntax.
+#
+
+# Set the user's default shell.
+usershell="/bin/zsh"
+
+# Modules to include
+# An array of module directory names to include.
+# This setting cannot be changed by an argument.
+modules=(
+    "base"
+    "share"
+    "share-extra"
+    #"zsh-powerline"
+    "lightdm"
+    "alter-lightdm"
+    "qtongtk"
+    "calamares"
+)

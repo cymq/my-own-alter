@@ -1,0 +1,14 @@
+format = "$all"
+add_newline = true
+
+[character]
+success_symbol = "[▸>](bold yellow)"
+error_symbol = "[▸>](bold cyan)"
+vicmd_symbol = "[<◂](bold yellow)"
+
+[username]
+style_user = "white bold"
+style_root = "black bold"
+format = "user: [$user]($style) "
+disabled = false
+show_always = true

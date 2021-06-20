@@ -1,0 +1,24 @@
+#
+# Alter Linux bspwm edition package list
+#
+# cymq
+# Twitter: @cymq0686
+# Email  : cymq0686@gmail.com
+#
+# (c) 2019-2021 Fascode Network.
+#
+# some softwares
+
+# color picker
+colorpicker-ym1234-git
+farge-git
+
+# font manager
+font-manager
+
+# application launcher
+j4-dmenu-desktop
+
+# system monitor
+baru
+

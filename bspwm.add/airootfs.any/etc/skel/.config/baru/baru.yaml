@@ -1,0 +1,57 @@
+format: '%m  %c  %s'
+tick: 1000
+battery:
+  full_design: true
+  low_level: 30
+  full_label: '*'
+  charging_label: '^'
+  discharging_label: 'b'
+  low_label: '!'
+  unknown_label: '?'
+  format: '%l %v'
+brightness:
+  label: 'l'
+  format: '%l %v'
+cpu:
+  label: 'cpu'
+  high_label: '!'
+  format: '%l:%v'
+cpu_freq:
+  tick: 100
+  high_level: 60
+  label: 'freq'
+  high_label: '!'
+  format: '%v %l'
+memory:
+  core_inputs: 2..5
+  label: 'mem'
+  high_label: '!'
+  format: '%l:%v'
+mic:
+  index: 1
+  label: 'mic'
+  mute_label: '.'
+  format: '%v %l'
+sound:
+  index: 0
+  label: 'vol'
+  mute_label: 'muted'
+  format: '%l:%v'
+temperature:
+  core_inputs: 2..5
+  label: 'temperature'
+  high_label: '!'
+  format: '%v %l'
+wired:
+  discrete: true
+  interface: enp4s0
+  label: 'wired'
+  disconnected_label: '\'
+  format: '%l'
+wireless:
+  interface: wlp1s0
+  display: Essid
+  max_essid_len: 100
+  label: 'wireless'
+  disconnected_label: '\'
+  format: '%v %l'

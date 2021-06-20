@@ -1,0 +1,17 @@
+#
+# Alter Linux bspwm edition package list
+#
+# cymq
+# Twitter: @cymq0686
+# Email  : cymq0686@gmail.com
+#
+# (c) 2019-2021 Fascode Network.
+#
+# fonts
+
+# koruri
+ttf-koruri
+
+# brass mono
+otf-brass-mono
+

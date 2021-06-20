@@ -1,0 +1,43 @@
+#
+# Alter Linux bspwm edition package list
+#
+# cymq
+# Twitter: @cymq0686
+# Email  : cymq0686@gmail.com
+#
+# (c) 2019-2021 Fascode Network.
+#
+# some softwares
+
+# file manager
+ranger
+
+# notification daemon
+dunst
+
+# screenshot
+scrot
+
+# display
+arandr
+
+# terminal emulator
+kitty
+
+# screen lock
+light-locker
+
+# program launcher
+bemenu
+
+# panel
+tint2
+
+# compositor
+picom
+
+# wallpaper manager
+nitrogen
+
+# image viewer
+feh

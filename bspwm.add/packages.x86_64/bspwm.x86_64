@@ -1,0 +1,22 @@
+#
+# Alter Linux bspwm edition package list
+#
+# cymq
+# Twitter: @cymq0686
+# Email  : cymq0686@gmail.com
+#
+# (c) 2019-2021 Fascode Network.
+#
+# bspwm & xorg relation packages
+
+# xorg
+xorg-xrandr
+xorg-setxkbmap
+xorg-xsetroot
+
+# bspwm
+bspwm
+
+# hotkey
+sxhkd
+

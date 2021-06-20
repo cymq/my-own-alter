@@ -1,0 +1,22 @@
+#
+# Alter Linux bspwm edition package list
+#
+# Watasuke
+# Twitter: @Watasuke102
+# Email  : Watasuke102@gmail.com
+#
+# cymq
+# Twitter: @cymq0686
+# Email  : cymq0686@gmail.com
+#
+# (c) 2019-2021 Fascode Network.
+#
+# extra packages
+
+diffutils
+vim-minimal
+sshfs
+mate-polkit
+starship
+ueberzug
+
